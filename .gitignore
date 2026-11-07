@@ -1,21 +1,4 @@
-# [CELL 13] GENERATE PROCESSING REPORT
-report_path = OUTPUT_DIR / f"{LAST_NAME}_{STUDENT_ID}_processing_report.txt"
-
-with open(report_path, "w", encoding="utf-8") as report:
-    report.write("PYTHON FILE-HANDLING PROCESSING REPORT\n")
-    report.write("--------------------------------------\n")
-    report.write(f"Last Name: {LAST_NAME}\n")
-    report.write(f"Student ID: {STUDENT_ID}\n")
-    report.write(f"Seed Digit: {SEED_DIGIT}\n")
-    report.write(f"ID Sum: {ID_SUM}\n")
-    report.write(f"Verification Value: {verification_value}\n")
-    report.write(f"Dataset Sample Size: {sample_size}\n")
-    report.write(f"Valid Records: {valid_records}\n")
-    report.write(f"Average Global Active Power: {average_power:.3f}\n")
-    report.write(f"JSON File: {json_path.name}\n")
-    report.write(f"Backup File: {backup_path.name}\n")
-
-print("Report created:", report_path).venv/
+.venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
