@@ -1,0 +1,5 @@
+Student: Dacua
+Student ID: TUPM-26-3491
+Seed digit: 1
+ID sum: 25
+Verification value: 126

@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Dacua
+Student ID: TUPM-26-3491
+Seed Digit: 1
+ID Sum: 25
+Verification Value: 126
+Dataset Sample Size: 75
+Valid Records: 75
+Average Global Active Power: 4.040
+JSON File: Dacua_TUPM-26-3491_record.json
+Backup File: Dacua_TUPM-26-3491_record.csv
