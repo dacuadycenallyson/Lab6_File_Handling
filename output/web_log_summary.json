@@ -1,0 +1,40 @@
+{
+    "student_seed_digit": 1,
+    "student_id_sum": 25,
+    "records_processed": 1025,
+    "target_status_class": "3xx",
+    "valid_records": 1025,
+    "invalid_records": 0,
+    "records_in_target_class": 165,
+    "count_per_status_code": {
+        "200": 847,
+        "206": 8,
+        "302": 144,
+        "304": 21,
+        "404": 5
+    },
+    "five_most_requested_urls": [
+        {
+            "url": "/",
+            "requests": 47
+        },
+        {
+            "url": "/process.php",
+            "requests": 35
+        },
+        {
+            "url": "/contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest",
+            "requests": 34
+        },
+        {
+            "url": "/home.php",
+            "requests": 9
+        },
+        {
+            "url": "/logout.php",
+            "requests": 7
+        }
+    ],
+    "filtered_csv_file": "/Users/macbook/Lab6_File_Handling_Dacua/output/web_log_filtered.csv",
+    "json_summary_file": "/Users/macbook/Lab6_File_Handling_Dacua/output/web_log_summary.json"
+}

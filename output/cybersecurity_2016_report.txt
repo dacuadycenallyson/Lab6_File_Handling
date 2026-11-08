@@ -1,0 +1,37 @@
+============================================================
+CYBERSECURITY INCIDENT REPORT
+============================================================
+Student Seed Digit: 1
+Target Year: 2016
+
+Total Records Processed: 3000
+Valid Records: 3000
+Invalid Records: 0
+Filtered Incidents: 285
+
+ATTACK TYPE COUNTS:
+DDoS: 53
+Malware: 41
+Man-in-the-Middle: 47
+Phishing: 55
+Ransomware: 42
+SQL Injection: 47
+
+Total Financial Loss: $13947.26 million
+Average Financial Loss: $48.94 million
+
+FIVE COSTLIEST INCIDENTS:
+1. Phishing - $99.98 million
+2. Ransomware - $99.88 million
+3. Malware - $99.29 million
+4. Ransomware - $99.19 million
+5. Phishing - $98.72 million
+
+OUTPUT FILE INFORMATION:
+Filtered CSV: /Users/macbook/Lab6_File_Handling_Dacua/output/cybersecurity_2016_filtered.csv
+JSON Summary: /Users/macbook/Lab6_File_Handling_Dacua/output/cybersecurity_2016_summary.json
+JSON Backup: /Users/macbook/Lab6_File_Handling_Dacua/backup/cybersecurity_2016_summary_backup.json
+Text Report: /Users/macbook/Lab6_File_Handling_Dacua/output/cybersecurity_2016_report.txt
+Backup File Size: 1042 bytes
+Backup Verification: SUCCESS
+============================================================

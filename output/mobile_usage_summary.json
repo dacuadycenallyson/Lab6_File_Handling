@@ -1,0 +1,13 @@
+{
+    "student_seed_digit": 1,
+    "target_operating_system": "iOS",
+    "target_behavior_class": 2,
+    "total_records_processed": 700,
+    "valid_records": 700,
+    "invalid_records": 0,
+    "exported_records": 32,
+    "average_battery_drain_mAh_per_day": 872.03125,
+    "average_data_usage_MB_per_day": 451.34375,
+    "verified_exported_count": 32,
+    "export_verification": true
+}

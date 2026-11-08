@@ -1,0 +1,40 @@
+{
+    "student_seed_digit": 1,
+    "target_year": 2016,
+    "total_records_processed": 3000,
+    "valid_records": 3000,
+    "invalid_records": 0,
+    "filtered_incidents": 285,
+    "attack_type_counts": {
+        "DDoS": 53,
+        "Man-in-the-Middle": 47,
+        "SQL Injection": 47,
+        "Phishing": 55,
+        "Malware": 41,
+        "Ransomware": 42
+    },
+    "total_financial_loss_million": 13947.260000000006,
+    "average_financial_loss_million": 48.93775438596493,
+    "five_costliest_incidents": [
+        {
+            "attack_type": "Phishing",
+            "financial_loss_million": 99.98
+        },
+        {
+            "attack_type": "Ransomware",
+            "financial_loss_million": 99.88
+        },
+        {
+            "attack_type": "Malware",
+            "financial_loss_million": 99.29
+        },
+        {
+            "attack_type": "Ransomware",
+            "financial_loss_million": 99.19
+        },
+        {
+            "attack_type": "Phishing",
+            "financial_loss_million": 98.72
+        }
+    ]
+}
